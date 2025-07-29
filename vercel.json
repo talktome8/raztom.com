@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/rememory", "destination": "/rememory/index.html" },
+    { "source": "/bridge", "destination": "/bridge/index.html" },
+    { "source": "/gallery", "destination": "/gallery/index.html" }
+  ]
+}
